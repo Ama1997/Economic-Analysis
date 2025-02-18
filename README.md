@@ -13,16 +13,19 @@ The data used in this analysis is sourced from **World Bank Open Data**, a relia
    - GDP growth trends were analyzed to compare economic performance.
    - Inflation rates were examined to understand price stability in each country.
    - The relationship between GDP growth and inflation was explored to identify patterns.
-4. **Visualization:** Key trends were visualized using line charts and bar graphs to make the findings more accessible.
+4. **Visualization:** Key trends were visualized using line charts and bar graphs, which are included in this repository.
 
 ---
 
-## Findings
+## Visualizations
 
 ### 1. GDP Growth Over Time (2000-2020)
-- **Ghana:** Ghana's GDP has grown steadily, driven by agriculture, mining, and oil production. However, its GDP remains relatively small compared to advanced economies.
-- **United Kingdom:** The UK's GDP is large and stable, reflecting its mature, service-based economy. Growth has been steady but slower compared to developing economies.
-- **China:** China's GDP growth has been explosive, making it the second-largest economy in the world. This growth is driven by manufacturing, exports, and infrastructure development.
+![GDP Growth Over Time](output_1_0.png)
+*Figure 1: GDP growth trends for Ghana, the United Kingdom, and China (2000-2020).*
+
+- **Ghana:** Steady GDP growth driven by agriculture, mining, and oil production.
+- **United Kingdom:** Stable GDP growth reflecting a mature, service-based economy.
+- **China:** Explosive GDP growth driven by manufacturing, exports, and infrastructure development.
 
 **Key Takeaway:**
 - Ghana's GDP growth shows potential but is smaller and more volatile.
@@ -30,9 +33,12 @@ The data used in this analysis is sourced from **World Bank Open Data**, a relia
 - China's GDP growth is the fastest, reflecting its rapid industrialization and global trade dominance.
 
 ### 2. Inflation Rate Over Time (2000-2020)
-- **Ghana:** Ghana has experienced higher inflation rates, common in developing economies due to currency fluctuations and reliance on imports.
-- **United Kingdom:** The UK has maintained low and stable inflation, typical of developed economies with strong economic policies.
-- **China:** China has kept inflation moderate despite rapid growth, thanks to tight government control over prices and the economy.
+![Inflation Rate Over Time](output_1_1.png)
+*Figure 2: Inflation rate trends for Ghana, the United Kingdom, and China (2000-2020).*
+
+- **Ghana:** Higher inflation rates due to currency fluctuations and reliance on imports.
+- **United Kingdom:** Low and stable inflation, typical of a developed economy.
+- **China:** Moderate inflation despite rapid growth, thanks to strong government control.
 
 **Key Takeaway:**
 - Ghana's high inflation reflects the challenges of a developing economy.
@@ -40,6 +46,9 @@ The data used in this analysis is sourced from **World Bank Open Data**, a relia
 - China's moderate inflation reflects its controlled and fast-growing economy.
 
 ### 3. Relationship Between GDP and Inflation
+![GDP and Inflation Relationship](output_1_2.png)
+*Figure 3: Relationship between GDP growth and inflation for Ghana, the United Kingdom, and China.*
+
 - **Ghana:** Higher GDP growth often leads to higher inflation due to reliance on imports and less stable economic policies.
 - **United Kingdom:** GDP growth and inflation are balanced, reflecting the efficiency and stability of a mature economy.
 - **China:** Despite rapid GDP growth, inflation has been controlled through strong government policies.
